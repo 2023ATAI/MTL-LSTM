@@ -1,7 +1,7 @@
 # MTL-LSTM
 
 Installation
-Our works in Python3.9.13
+Our works in Python3.9.13.
 In order to use the program successfully, the following site-packages are required:
 
 pytorch 1.13.1
