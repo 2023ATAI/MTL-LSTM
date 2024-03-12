@@ -29,7 +29,7 @@ When the config is properly configured, run main.py to train the model.
 Running postprocess.py will display the evaluation results of the model across various metrics.
 
 ### Required data:
-All forcing data, land surface data, and most static data are in the LandBench dataset, dem data have not been updated to the LandBench dataset yet.
+All forcing data, land surface data, and static data are in the LandBench dataset, the DOI link for the dataset is https://doi.org/10.11888/Atmos.tpdc.300294.
 
 
 
